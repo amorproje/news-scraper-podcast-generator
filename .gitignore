@@ -1,0 +1,26 @@
+.idea/
+
+# Byte-compiled / cached files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+.env/
+.env
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.vscode/
+*.log
+
+# Tkinter window state files
+*.tcl
+
+__pycache__/
+*.mp3
+*.jpg
+.DS_Store
